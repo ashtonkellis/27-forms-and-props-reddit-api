@@ -1,5 +1,4 @@
 ## Submission Instructions
-  * Work in a fork of this repository
   * Work in a branch on your fork
   * Submit a pull request to your repository
   * Submit a link to your pull request on canvas:
