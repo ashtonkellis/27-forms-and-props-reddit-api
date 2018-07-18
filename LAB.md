@@ -1,10 +1,8 @@
 ## Submission Instructions
-  * Work in a branch on your fork
-  * Submit a pull request to your repository
-  * Submit a link to your pull request on canvas:
-  * Submit a question: 
-  * observation: 
-  * and how long you spent:
+  * Submit a link to your pull request on canvas: https://github.com/ashtonkellis/27-forms-and-props-reddit-api/pull/1
+  * Submit a question: i cannot get the color change to work on the form on error. It appears as though the logic that i have currently is working to add the class name, but the css class hook seems to not be grabbing it.
+  * observation: react is sweet. its so nice and declarative. i'm really looking forward to being actually good at it
+  * and how long you spent: ~ 5 hours
     
 #### Feature Tasks 
 Create the following components and structure them according to the following diagram 
